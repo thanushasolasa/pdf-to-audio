@@ -15,19 +15,33 @@ This project converts **PDF text into speech**, allowing users to listen to thei
 - **pyttsx3** (for text-to-speech conversion)  
 - **Tkinter** (for file selection)  
 
-## 🔹 Installation & Usage  
-1️⃣ **Install dependencies:**  
-```bash
-pip install pyttsx3 PyPDF2 tkinter 
-```bash
-2️⃣ **Run the Script**
-Once the dependencies are installed, you can run the script using the following command:
-```bash
-python main.py
+## 🔹 Installation & Usage   
 
-3️⃣ **Select a PDF File and Listen!**🎧
-The script will prompt you to select a PDF file.
+### 1️⃣ **Install dependencies:**  
+- Open a terminal or command prompt  
+- Run the following command:  
 
-After selecting the file, the text will be extracted and read aloud.
-Enjoy listening to your PDFs! 🎉
+  ```bash
+  pip install pyttsx3 PyPDF2 tkinter
+
+
+### 2️⃣ **Run the Script**  
+- Once the dependencies are installed, run the script using:  
+
+  ```bash
+  python main.py
+
+
+### 3️⃣ **Select a PDF File and Listen!** 🎧  
+- The script will prompt you to **select a PDF file**  
+- After selecting the file:  
+  - 📖 The **text will be extracted**  
+  - 🔊 It will be **read aloud**  
+
+---
+
+- 🎉 **Enjoy listening to your PDFs!**  
+
+
+
 

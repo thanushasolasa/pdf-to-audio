@@ -36,11 +36,11 @@ This project converts **PDF text into speech**, allowing users to listen to thei
 - The script will prompt you to **select a PDF file**  
 - After selecting the file:  
   - 📖 The **text will be extracted**  
-  - 🔊 It will be **read aloud**  
-
+  - 🔊 It will be **read aloud**
+    
 ---
 
-- 🎉 **Enjoy listening to your PDFs!**  
+🎉 **Enjoy listening to your PDFs!**  
 
 
 
